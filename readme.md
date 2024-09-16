@@ -30,5 +30,7 @@ git status
 git diff
 ```
 
-
+```bash
+git log
+```
 
